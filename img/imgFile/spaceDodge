@@ -1,0 +1,12 @@
+{
+    "name": "DODGE",
+    "description": "A space Dog",
+    "image": 
+    "ipfs://QmZDVDxY1LWNkoK3vyi8LM4qmBC2sWatvhtdGFfyZY2rEA",
+    "attribute": [
+        {
+            "trait_type": "On the mission",
+            "value": 100
+        }
+    ]
+}
